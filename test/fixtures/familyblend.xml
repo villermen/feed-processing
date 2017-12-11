@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<datafeeds>
+ <datafeed>
+  <advertiser_id>567</advertiser_id>
+  <advertiser_site>happybee</advertiser_site>
+  <advertiser_url>http://kliks.affiliate4you.nl/?adv=17854&amp;web=6782&amp;subid=&amp;url=http%3A%2F%2Fkliks.affiliate4you.nl%2F%3Fadv%3D17854%26web%3D6782%26subid%3D%26url%3Dhttp%253A%252F%252Fwww.happybee.nl</advertiser_url>
+  <advertiser_description>Happybee - De online winkel voor baby- en kinderkleding</advertiser_description>
+  <advertiser_country>NLD</advertiser_country>
+  <datafeed_id>28</datafeed_id>
+  <website_id>567</website_id>
+  <datafeed_title></datafeed_title>
+  <promotion_material_id>17854</promotion_material_id>
+  <offers>
+   <offer>
+    <product_id>42bst00818</product_id>
+    <name>Blue Star Jeans Shirt lange mouw</name>
+    <description>De opdruk heeft een vintage-look.</description>
+    <price>11.98</price>
+    <price_from>29.95</price_from>
+    <image>http://www.happybee.nl/fotogroot/42bst00818_voorzijde.jpg</image>
+    <url>http://kliks.affiliate4you.nl/?adv=17854&amp;web=6782&amp;subid=&amp;url=http%3A%2F%2Fwww.happybee.nl%2Fartikel%2Fdetail.php%3Fat%3D42bst00818</url>
+    <category>Shirt</category>
+    <brand>Blue Star Jeans</brand>
+    <size>140;116;</size>
+    <gender>jongen</gender>
+    <color>legergroen</color>
+    <season>Winter</season>
+    <category_path>Shirt</category_path>
+   </offer>
+   <offer>
+    <product_id>42rag01711</product_id>
+    <name>Rags Industry Shirt lange mouw</name>
+    <description>De applicatie op het shirt bevat kraaltjes. De kraag heeft een vintage-look, door de niet afgewerkte boord. Rags hanteert een afwijkende maatserie: maat 104/110 (XXXS) = 104; 116/122 (XXS) = 116; 128/134 (XS)= 128; 140/146 (S)= 140; 152/158 (M)= 152; 164/170 (L)= 164; 176 (XL)= 176.</description>
+    <price>13.98</price>
+    <price_from>34.95</price_from>
+    <image>http://www.happybee.nl/fotogroot/42rag01711_voorzijde.jpg</image>
+    <url>http://kliks.affiliate4you.nl/?adv=17854&amp;web=6782&amp;subid=&amp;url=http%3A%2F%2Fwww.happybee.nl%2Fartikel%2Fdetail.php%3Fat%3D42rag01711</url>
+    <category>Shirt</category>
+    <brand>Rags Industry</brand>
+    <size>176;</size>
+    <gender>meisje</gender>
+    <color>paars</color>
+    <season>Winter</season>
+    <category_path>Shirt</category_path>
+   </offer>
+   <offer>
+    <product_id>51nop13225</product_id>
+    <name>Noppies Lange broek</name>
+    <description>In de taille zit een verstelbaar elastiek. De broek heeft een drukknoop. Fabrikantkleur: C310 Multi Color.</description>
+    <price>8.75</price>
+    <price_from>24.99</price_from>
+    <image>http://www.happybee.nl/fotogroot/51nop13225_voorzijde.jpg</image>
+    <url>http://kliks.affiliate4you.nl/?adv=17854&amp;web=6782&amp;subid=&amp;url=http%3A%2F%2Fwww.happybee.nl%2Fartikel%2Fdetail.php%3Fat%3D51nop13225</url>
+    <category>Broek</category>
+    <brand>Noppies</brand>
+    <size>62;56;</size>
+    <gender>jongen</gender>
+    <color>diverse kleuren</color>
+    <season>Zomer</season>
+    <category_path>Broek</category_path>
+   </offer>
+   <offer>
+    <product_id>60lec22912</product_id>
+    <name>Le Chic Rok</name>
+    <description>Er zit een elastieken rand bij de taille. De rok bestaat uit drie laagjes, waarbij de bovenste twee laagjes van tule zijn. verwerkt. Fabrikantkleur: 139 Rich Blue.</description>
+    <price>29.98</price>
+    <price_from>59.95</price_from>
+    <image>http://www.happybee.nl/fotogroot/60lec22912_voorzijde.jpg</image>
+    <url>http://kliks.affiliate4you.nl/?adv=17854&amp;web=6782&amp;subid=&amp;url=http%3A%2F%2Fwww.happybee.nl%2Fartikel%2Fdetail.php%3Fat%3D60lec22912</url>
+    <category>Rok</category>
+    <brand>Le Chic</brand>
+    <size>164;</size>
+    <gender>meisje</gender>
+    <color>lichtblauw</color>
+    <season>Feestkleding</season>
+    <category_path>Rok</category_path>
+   </offer>
+   <offer>
+    <product_id>12pro01023</product_id>
+    <name>Protest Winterjas</name>
+    <description>De jas heeft een afneembare capuchon.</description>
+    <price>32.00</price>
+    <price_from>79.99</price_from>
+    <image>http://www.happybee.nl/fotogroot/12pro01023_voorzijde.jpg</image>
+    <url>http://kliks.affiliate4you.nl/?adv=17854&amp;web=6782&amp;subid=&amp;url=http%3A%2F%2Fwww.happybee.nl%2Fartikel%2Fdetail.php%3Fat%3D12pro01023</url>
+    <category>Jas</category>
+    <brand>Protest</brand>
+    <size>104;</size>
+    <gender>meisje</gender>
+    <color>zwart</color>
+    <season>Winter</season>
+    <category_path>Jas</category_path>
+   </offer>
+  </offers>
+ </datafeed>
+</datafeeds>

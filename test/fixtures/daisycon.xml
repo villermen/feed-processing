@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<datafeed>
+	<info>
+		<category></category>
+		<sub_category><![CDATA[General]]></sub_category>
+		<product_count><![CDATA[523]]></product_count>
+		<last_modified><![CDATA[2017-05-13 15:42:11]]></last_modified>
+		<date_created><![CDATA[2017-05-13 16:05:36]]></date_created>
+		<previous_download><![CDATA[0000-00-00 00:00:00]]></previous_download>
+	</info>
+	<programs>
+		<program>
+			<program_info>
+				<id><![CDATA[11132]]></id>
+				<name><![CDATA[Dierplagenshop]]></name>
+				<currency><![CDATA[EUR]]></currency>
+				<currency_symbol><![CDATA[€]]></currency_symbol>
+				<product_count><![CDATA[523]]></product_count>
+				<last_modified></last_modified>
+				<daisycon_unique_id_since><![CDATA[2016-09-26 16:41:43]]></daisycon_unique_id_since>
+				<daisycon_unique_id_modified><![CDATA[true]]></daisycon_unique_id_modified>
+			</program_info>
+			<products>
+				<product>
+					<update_info>
+						<daisycon_unique_id><![CDATA[c805387cfe566e248abb75a966617627]]></daisycon_unique_id>
+						<previous_daisycon_unique_id></previous_daisycon_unique_id>
+						<data_hash><![CDATA[8356ac5d4d2012503e653479dece9687]]></data_hash>
+						<status><![CDATA[active]]></status>
+						<insert_date><![CDATA[2016-12-01 16:01:22]]></insert_date>
+						<update_date><![CDATA[2017-04-07 14:37:19]]></update_date>
+						<delete_date></delete_date>
+					</update_info>
+					<product_info>
+						<additional_costs></additional_costs>
+						<brand><![CDATA[Edialux]]></brand>
+						<brand_logo></brand_logo>
+						<category><![CDATA[Ongediertebestrijding]]></category>
+						<category_path><![CDATA[Ongediertebestrijding|]]></category_path>
+						<condition></condition>
+						<description><![CDATA[Kunststof weringsstrips 100 mm
+Weringstrips Kunstof 100 zijn flexibele kunststof strippen.
+Hierdoor is het toepassingsgebied ongekend groot.
+Op dakgoten, onder dakpannen, in kieren en naden of ronde objecten, altijd een goede bescherming tegen vogels en knaagdieren.
+
+
+De strippen hebben een lengte van 1 meter.]]></description>
+						<description_short></description_short>
+						<color_primary></color_primary>
+						<sku><![CDATA[2305031]]></sku>
+						<in_stock></in_stock>
+						<in_stock_amount></in_stock_amount>
+						<keywords></keywords>
+						<link><![CDATA[https://lt45.net/c/?wi=221683&si=11132&li=1493790&pid=c805387cfe566e248abb75a966617627&dl=Kunststof-weringsstrips-100&ws=]]></link>
+						<price><![CDATA[5.42]]></price>
+						<price_old><![CDATA[5.97]]></price_old>
+						<priority></priority>
+						<terms_conditions></terms_conditions>
+						<title><![CDATA[Kunststof weringsstrips 100 mm]]></title>
+						<price_shipping><![CDATA[5.35]]></price_shipping>
+						<delivery_time></delivery_time>
+						<delivery_description><![CDATA[2 tot 3 werkdagen]]></delivery_description>
+						<size></size>
+						<size_description></size_description>
+						<model></model>
+						<gender_target></gender_target>
+						<ean></ean>
+						<images>
+							<image>
+								<size><![CDATA[small]]></size>
+								<tag><![CDATA[default]]></tag>
+								<type><![CDATA[Default image for the product]]></type>
+								<location><![CDATA[https://www.dierplagenshop.nl/Files/5/19000/19174/ProductPhotos/Medium/282563685.jpg]]></location>
+							</image>
+						</images>
+					</product_info>
+				</product>
+				<product>
+					<update_info>
+						<daisycon_unique_id><![CDATA[9a34b13130c5f14849f4a12cc0852f48]]></daisycon_unique_id>
+						<previous_daisycon_unique_id></previous_daisycon_unique_id>
+						<data_hash><![CDATA[cf4b3315f2a3f5fdc9cd2bf699f8b637]]></data_hash>
+						<status><![CDATA[active]]></status>
+						<insert_date><![CDATA[2016-12-01 16:01:22]]></insert_date>
+						<update_date><![CDATA[2017-04-29 15:35:15]]></update_date>
+						<delete_date></delete_date>
+					</update_info>
+					<product_info>
+						<additional_costs></additional_costs>
+						<brand><![CDATA[Roxasect]]></brand>
+						<brand_logo></brand_logo>
+						<category><![CDATA[Ongediertebestrijding]]></category>
+						<category_path><![CDATA[Ongediertebestrijding|]]></category_path>
+						<condition></condition>
+						<description><![CDATA[Roxasect Zilvervisjes val (set 2 stuks)
+Vang eenvoudig zilvervisjes weg met deze zilvervisjesval.
+ Deze val ter bestrijding van zilvervisjes trekt zilvervisjes en overig kruipend ongedierte aan.
+ Het product is gifvrij en reukloos.
+ 
+ (set 2 stuks)
+Roxasect Zilvervisjes gifvrij en reukloos.]]></description>
+						<description_short></description_short>
+						<color_primary></color_primary>
+						<sku><![CDATA[110-000524]]></sku>
+						<in_stock></in_stock>
+						<in_stock_amount></in_stock_amount>
+						<keywords></keywords>
+						<link><![CDATA[https://lt45.net/c/?wi=221683&si=11132&li=1493790&pid=9a34b13130c5f14849f4a12cc0852f48&dl=Roxasect-Zilvervisjes-val&ws=]]></link>
+						<price><![CDATA[9.14]]></price>
+						<price_old><![CDATA[9.14]]></price_old>
+						<priority></priority>
+						<terms_conditions></terms_conditions>
+						<title><![CDATA[Roxasect Zilvervisjes val (set 2 stuks)]]></title>
+						<price_shipping><![CDATA[5.35]]></price_shipping>
+						<delivery_time></delivery_time>
+						<delivery_description><![CDATA[2 tot 3 werkdagen]]></delivery_description>
+						<size></size>
+						<size_description></size_description>
+						<model></model>
+						<gender_target></gender_target>
+						<ean><![CDATA[8711744032678]]></ean>
+						<images>
+							<image>
+								<size><![CDATA[small]]></size>
+								<tag><![CDATA[default]]></tag>
+								<type><![CDATA[Default image for the product]]></type>
+								<location><![CDATA[https://www.dierplagenshop.nl/Files/5/19000/19174/ProductPhotos/Medium/282563831.jpg]]></location>
+							</image>
+						</images>
+					</product_info>
+				</product>
+				<product>
+					<update_info>
+						<daisycon_unique_id><![CDATA[b47911378c3a204b31e8ab132ab4bb34]]></daisycon_unique_id>
+						<previous_daisycon_unique_id></previous_daisycon_unique_id>
+						<data_hash><![CDATA[67236d8fbd6172a28688b0d3e1f95373]]></data_hash>
+						<status><![CDATA[active]]></status>
+						<insert_date><![CDATA[2016-12-01 16:01:22]]></insert_date>
+						<update_date><![CDATA[2017-04-29 15:35:15]]></update_date>
+						<delete_date></delete_date>
+					</update_info>
+					<product_info>
+						<additional_costs></additional_costs>
+						<brand><![CDATA[AF]]></brand>
+						<brand_logo></brand_logo>
+						<category><![CDATA[Ongediertebestrijding]]></category>
+						<category_path><![CDATA[Ongediertebestrijding|]]></category_path>
+						<condition></condition>
+						<description><![CDATA[Af Snappa muizenlokaasdoos 
+
+ De AF Snappa is ontworpen met de voedingsindustrie in het achterhoofd.
+De professionele dierplaagbestrijder wordt voorzien van een "tool" waarmee op discrete wijze aan muizenbestrijding kan worden gedaan.
+De afgevangen muis is niet zichtbaar van buitenaf, een eis die standaard door de voedingsindustrie wordt gesteld.
+De AF Snappa kan gecombineerd worden met de Trapper Snap en de Snap-E-Mouse klapval.
+
+Vingers kunnen niet in de box, dus een veilig systeem 
+Een label voor registratie van opname kan aan de binnenkant van het deksel geplakt worden 
+Past op zowel de AF Shoe als de AF Insect Monitor 
+Zowel de Snap-E Mouse als blokvormig lokaas kan gebruikt worden
+Gevangen muis is niet zichtbaar
+Biedt plaats aan één muizenklem (bv. Snap-E-Mouse)
+Handige inspectiegleuf voor een snelle controle van de klem
+Afneembaar deksel vergemakkelijkt periodieke controle en registratie
+Ideaal voor huiselijke, commerciële en industriële omgevingen
+Snel en makkelijk te openen met de universele AF Sleutel (beschikbaar in plastic en metaal)
+Extra staafjes voor het bevestigen van lokazen zijn separaat leverbaar
+Beschikbaar in zwart, transparant en metaal detecteerbaar en in zwart met transparant deksel
+
+Sleutels worden los verkocht, per 15 muizenlokdozen ontvangt u 1 gratis kunstof sleutel.
+
+ De AF Snappa muizenlokaasdoos kan gecombineerd worden met de Snap-E-Mouse klapval.]]></description>
+						<description_short></description_short>
+						<color_primary></color_primary>
+						<sku><![CDATA[8001]]></sku>
+						<in_stock></in_stock>
+						<in_stock_amount></in_stock_amount>
+						<keywords></keywords>
+						<link><![CDATA[https://lt45.net/c/?wi=221683&si=11132&li=1493790&pid=b47911378c3a204b31e8ab132ab4bb34&dl=Af-Snappa-muizenlokdoos-met-E-Snappa-muizenval&ws=]]></link>
+						<price><![CDATA[5.94]]></price>
+						<price_old><![CDATA[6.45]]></price_old>
+						<priority></priority>
+						<terms_conditions></terms_conditions>
+						<title><![CDATA[Af Snappa muizenlokaasdoos (zwart)]]></title>
+						<price_shipping><![CDATA[5.35]]></price_shipping>
+						<delivery_time></delivery_time>
+						<delivery_description><![CDATA[2 tot 3 werkdagen]]></delivery_description>
+						<size></size>
+						<size_description></size_description>
+						<model></model>
+						<gender_target></gender_target>
+						<ean></ean>
+						<images>
+							<image>
+								<size><![CDATA[small]]></size>
+								<tag><![CDATA[default]]></tag>
+								<type><![CDATA[Default image for the product]]></type>
+								<location><![CDATA[https://www.dierplagenshop.nl/Files/5/19000/19174/ProductPhotos/Medium/282565483.jpg]]></location>
+							</image>
+						</images>
+					</product_info>
+				</product>
+				<product>
+					<update_info>
+						<daisycon_unique_id><![CDATA[0eac2308daddb67eda5f236343895742]]></daisycon_unique_id>
+						<previous_daisycon_unique_id></previous_daisycon_unique_id>
+						<data_hash><![CDATA[995591e80a7d67934929dd7b7f403399]]></data_hash>
+						<status><![CDATA[active]]></status>
+						<insert_date><![CDATA[2016-12-01 16:01:22]]></insert_date>
+						<update_date><![CDATA[2017-04-29 15:35:15]]></update_date>
+						<delete_date></delete_date>
+					</update_info>
+					<product_info>
+						<additional_costs></additional_costs>
+						<brand><![CDATA[BSI]]></brand>
+						<brand_logo></brand_logo>
+						<category><![CDATA[Ongediertebestrijding]]></category>
+						<category_path><![CDATA[Ongediertebestrijding|]]></category_path>
+						<condition></condition>
+						<description><![CDATA[Larvex 2,5 kilo
+Krachtige ecologische gazonversterker
+
+Verhoogt de weerstand tegen belagers (emelten en engerlingen) en ziekten.
+Fijne korrels, gemakkelijk uit te strooien.
+2 tot 3 toepassingen per jaar, na de toepassing beregenen met 40 ? 50 liter per m², of inwerken in de bodem: maak een gleuf in de bodem met een spade, druk het product in de grond en maak de gleufjes opnieuw dicht.
+
+Samengestelde organische meststof NPK 7-3-4 + 2 MgO
+
+inhoud: 2,5 kilo
+Dosering: 2,5 kg per 80 m² (of 2 behandelingen van 40 m²)
+
+Levertijd:
+3 dagen]]></description>
+						<description_short></description_short>
+						<color_primary></color_primary>
+						<sku><![CDATA[50352]]></sku>
+						<in_stock><![CDATA[true]]></in_stock>
+						<in_stock_amount></in_stock_amount>
+						<keywords></keywords>
+						<link><![CDATA[https://lt45.net/c/?wi=221683&si=11132&li=1493790&pid=0eac2308daddb67eda5f236343895742&dl=Larvex-2%2C5-kilo-tegen-emelten-en-engerlingen&ws=]]></link>
+						<price><![CDATA[16.07]]></price>
+						<price_old><![CDATA[16.12]]></price_old>
+						<priority></priority>
+						<terms_conditions></terms_conditions>
+						<title><![CDATA[Larvex 2,5 kilo tegen emelten en engerlingen]]></title>
+						<price_shipping><![CDATA[5.35]]></price_shipping>
+						<delivery_time></delivery_time>
+						<delivery_description><![CDATA[2 tot 3 werkdagen]]></delivery_description>
+						<size></size>
+						<size_description></size_description>
+						<model></model>
+						<gender_target></gender_target>
+						<ean><![CDATA[5420046650352]]></ean>
+						<images>
+							<image>
+								<size><![CDATA[small]]></size>
+								<tag><![CDATA[default]]></tag>
+								<type><![CDATA[Default image for the product]]></type>
+								<location><![CDATA[https://www.dierplagenshop.nl/Files/5/19000/19174/ProductPhotos/Medium/282563905.jpg]]></location>
+							</image>
+						</images>
+					</product_info>
+				</product>
+				<product>
+					<update_info>
+						<daisycon_unique_id><![CDATA[9f4bef7f1ddee8eaa4e1390db81b35a3]]></daisycon_unique_id>
+						<previous_daisycon_unique_id></previous_daisycon_unique_id>
+						<data_hash><![CDATA[9af122e94c4427c57382839ad929df8f]]></data_hash>
+						<status><![CDATA[active]]></status>
+						<insert_date><![CDATA[2016-12-01 16:01:22]]></insert_date>
+						<update_date><![CDATA[2017-04-29 15:35:15]]></update_date>
+						<delete_date></delete_date>
+					</update_info>
+					<product_info>
+						<additional_costs></additional_costs>
+						<brand><![CDATA[BSI]]></brand>
+						<brand_logo></brand_logo>
+						<category><![CDATA[Ongediertebestrijding]]></category>
+						<category_path><![CDATA[Ongediertebestrijding|]]></category_path>
+						<condition></condition>
+						<description><![CDATA[Hot Exit 500 ml (honden en kattenweg)
+Uniek en krachtig katten- &amp; hondenafweermiddel voor gebruik buitenshuis. Regenbestendig.
+ 
+ HOT EXIT is een krachtig en 100% natuurlijk afweermiddel op basis van chili-peper extracten.
+HOT EXIT weert katten en honden en voorkomt ongewenste bevuiling op de behandelde plaatsen.
+Voor zowel rechtopstaande als vlakke behandeling!
+ Spoelt veel minder weg met regen dan korrels of klassieke sprays.
+ Door contact met de behandelde oppervlakte ontstaat een tijdelijke irritatie bij de huisdieren, die maakt dat ze deze plaatsen of paden zullen mijden; maar
+HOT EXIT is uiteindelijk onschadelijk voor de dieren. (niet voor op bleke tegels of muren, wegens licht rode kleur).
+ 
+
+
+Hot Exit 500 ml is langdurig actief. 100% natuurlijk.]]></description>
+						<description_short></description_short>
+						<color_primary></color_primary>
+						<sku><![CDATA[BSI3400]]></sku>
+						<in_stock><![CDATA[true]]></in_stock>
+						<in_stock_amount></in_stock_amount>
+						<keywords></keywords>
+						<link><![CDATA[https://lt45.net/c/?wi=221683&si=11132&li=1493790&pid=9f4bef7f1ddee8eaa4e1390db81b35a3&dl=Hot-Exit-2-Liter-%28honden-en-kattenweg%29&ws=]]></link>
+						<price><![CDATA[14.15]]></price>
+						<price_old><![CDATA[17.15]]></price_old>
+						<priority></priority>
+						<terms_conditions></terms_conditions>
+						<title><![CDATA[Hot Exit 500 ml (honden en kattenweg)]]></title>
+						<price_shipping><![CDATA[5.35]]></price_shipping>
+						<delivery_time></delivery_time>
+						<delivery_description><![CDATA[2 tot 3 werkdagen]]></delivery_description>
+						<size></size>
+						<size_description></size_description>
+						<model></model>
+						<gender_target></gender_target>
+						<ean><![CDATA[5425001713400]]></ean>
+						<images>
+							<image>
+								<size><![CDATA[small]]></size>
+								<tag><![CDATA[default]]></tag>
+								<type><![CDATA[Default image for the product]]></type>
+								<location><![CDATA[https://www.dierplagenshop.nl/Files/5/19000/19174/ProductPhotos/Medium/282563913.jpg]]></location>
+							</image>
+						</images>
+					</product_info>
+				</product>
+			</products>
+		</program>
+	</programs>
+</datafeed>
